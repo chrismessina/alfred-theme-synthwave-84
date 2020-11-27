@@ -53,3 +53,5 @@ This theme was [originally requested](https://www.alfredforum.com/topic/15740-a-
 ## About
 
 This theme is unaffiliated with nor endorsed by Rob Bowen.
+
+<a href="https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/">Alfred Forum link</a>.
