@@ -5,7 +5,7 @@ Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) 
 [Discuss on Alfred Forum](https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84/synthwave-84.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -21,7 +21,7 @@ This theme makes use of Source Foundry's [Hack](https://github.com/source-foundr
 [![Synthwave 84 Theme - Alfred Theme Preview](./assets/synthwave-84.png)](./assets/synthwave-84.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84/synthwave-84.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-synthwave-84/raw/main/synthwave-84.zip" class="button">
     Download Theme
   </a>
 </p>
